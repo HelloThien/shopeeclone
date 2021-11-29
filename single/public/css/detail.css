@@ -1,0 +1,103 @@
+ .container-detail{
+     color:black;
+     display: flex;
+     width: 100%; 
+     background-color: white;
+     
+     padding: 10px;
+    font-size: 1.5rem;
+    border-radius:5px;
+    
+     
+ }
+ .link-shop{
+     text-decoration: none;
+ }
+ .path-detail{
+    font-size: 1.6rem;
+    padding: 20px;
+ }
+  
+  
+ .detail-img{
+     width: 100%;
+ }
+
+ .detail-img img{
+     width: 100%;
+ }
+
+ .detail-title{
+    font-size: 2rem;
+    padding: 10px 0;
+ }
+ .detail-price{
+     height: 60px;
+     width: 100%;
+     background-color: var(--back-ground-color);
+     padding: 10px;
+ }
+ .detail-price-cur{
+
+     font-size: 3rem;
+    margin-left: 10px;
+      
+ }
+ .detail-quatity{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin:10px 0;
+ }
+ input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+ .btn-quatity{
+    width: 30px;
+    height: 30px;
+    border:var(--border-color);
+    font-size: 1.8rem;
+    text-align: center;
+ }
+.title-quantity{
+    margin-right: 40px;
+    color: rgb(165, 161, 161);
+    font-weight: 400;
+}
+.detail-rate{
+    display: flex;
+    align-items: center;
+}
+.detail-rate-color{
+    color:rgb(255, 46, 46);
+}
+.wall{
+    width: 2px;
+    background-color: rgba(229, 226, 226, 0.651);
+    height: 25px;
+}
+.btn-add-card{
+    height: 50px;
+    text-align: center;
+    width: 180px;
+    background-color: rgba(255, 86, 34, 0.096);
+    color:rgb(255, 46, 46);
+    line-height: 50px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.buy-now{
+    width: 100px;
+    background-color:  var(--primary-color);
+    color:white;
+    margin-left: 20px;
+}
+.btn-add-card:hover{
+    background-color: rgba(245, 131, 97, 0.096);
+}
+.buy-now:hover{
+    background-color: rgba(243, 72, 20, 0.829);
+}
