@@ -25,5 +25,24 @@ Then open    https://localhost/single  to run app.
 ## Tree folder 
 
 <img src="./img/dir.png">
+## view 
+# Home 
+<img src="./img/home-page.png">
+# Product
+<img src="./img/product.png.png">
+# Cart 
+<img src="./img/cart.png.png">
+# Detail
+<img src="./img/detail.png">
+# Account
+<img src="./img/account.png.png">
+# Seller
+<img src="./img/seller.png">
+# Prodcut of shop 
+<img src="./img/pro-seller.png.png">
+# Order
+<img src="./img/order-seller.png.png">
+
+ 
 
  
