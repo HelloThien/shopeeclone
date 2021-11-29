@@ -26,22 +26,32 @@ Then open    https://localhost/single  to run app.
 
 <img src="./img/dir.png">
 ## view 
+
 # Home 
+
 <img src="./img/home-page.png">
 # Product
-<img src="./img/product.png.png">
+
+<img src="./img/product.png ">
+
 # Cart 
-<img src="./img/cart.png.png">
+
+<img src="./img/cart.png ">
+
 # Detail
 <img src="./img/detail.png">
+
 # Account
-<img src="./img/account.png.png">
+<img src="./img/account.png ">
+
 # Seller
 <img src="./img/seller.png">
+
 # Prodcut of shop 
-<img src="./img/pro-seller.png.png">
+<img src="./img/pro-seller.png ">
+
 # Order
-<img src="./img/order-seller.png.png">
+<img src="./img/order-seller.png ">
 
  
 
